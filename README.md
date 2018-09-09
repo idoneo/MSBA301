@@ -8,6 +8,8 @@ Google's Ngram for the word Performance Management showing how there was a sharp
 2000
 Also the word Machine learning was practically non existant before 1960 in the digital collection of millions of books that Google uses for the Ngram search, around 1980 there was a logarithmic rise in the use of this word and there was no plateau showing up to 2008. I wish the Ngram viewer was more current at least to 2017.
 
+<iframe name="ngram_chart" src="https://books.google.com/ngrams/interactive_chart?content=Machine+Learning&year_start=1960&year_end=2008&corpus=15&smoothing=3&share=&direct_url=t1%3B%2CMachine%20Learning%3B%2Cc0" width=900 height=500 marginwidth=0 marginheight=0 hspace=0 vspace=0 frameborder=0 scrolling=no></iframe>
+
 Read a great article in [Harvard Magazine Online](https://harvardmagazine.com/2011/09/from-human-nature-to-human-resources)
 
 From Human Nature to Human Resources which tied in nicely with Chapter 6 of Cokins book that is the text for this class. But I wonder how these 4 human drives will fare once AI become the center of the workforce and the proportion of human to robots shifts
