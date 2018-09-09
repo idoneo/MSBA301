@@ -15,4 +15,4 @@ Read a great article in [Harvard Magazine Online](https://harvardmagazine.com/20
 
 From Human Nature to Human Resources which tied in nicely with Chapter 6 of Cokins book that is the text for this class. But I wonder how these 4 human drives will fare once AI become the center of the workforce and the proportion of human to robots shifts
 
-Learning how to format and using the [emoji cheat sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet/):clap::muscle:
+Learning how to format and using the [emoji cheat sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet/) :clap: :muscle:
